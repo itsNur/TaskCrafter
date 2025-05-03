@@ -1,4 +1,4 @@
-# TaskCrafter 📝
+# TeamTasker 📝
 
 A Django-based task management app with team collaboration features.
 
