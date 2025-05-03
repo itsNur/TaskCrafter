@@ -1,11 +1,14 @@
 # TaskCrafter 📝
 
-A Django-based task manager app (work in progress).
+A Django-based task management app with team collaboration features.
 
 ## Status
-This is an unfinished project I started while learning Django. It's currently on pause but might be picked up again later.
+This project is currently in development. It's part of my learning journey with Django and web app architecture.
 
-## What it has so far:
-- Basic models for tasks
-- Views and templates started
-- Django admin setup
+## Features
+- User authentication
+- Create and manage teams
+- Add teammates
+- Assign tasks to teammates
+- Task deadlines and status updates
+- Notifications
